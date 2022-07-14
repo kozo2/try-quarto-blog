@@ -1,0 +1,1 @@
+Sitemap: https://kozo2.github.io/try-quarto-blog/sitemap.xml
